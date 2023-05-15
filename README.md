@@ -1,4 +1,4 @@
-                                         ### 🌟 Hi, I am Ghadah Alotiabi 🌟
+                    ### 🌟 Hi, I am Ghadah Alotiabi 🌟
 
 ### About Me 🚀
 
