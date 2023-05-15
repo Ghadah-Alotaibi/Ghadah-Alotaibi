@@ -3,7 +3,7 @@
 ### About Me 🚀
 
 <!--
-**Ghadah-Alotaibi/Ghadah-Alotaibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**It's my pleasure to introduce myself as Ghadah, a backend developer with a keen interest in Data Science and AI. My passion for learning new things and improving myself never ceases. And i am willing to i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
