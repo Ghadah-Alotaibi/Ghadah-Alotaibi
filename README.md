@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey... it's great to meet you. 👋
+
+### About Me 🚀
 
 <!--
 **Ghadah-Alotaibi/Ghadah-Alotaibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
