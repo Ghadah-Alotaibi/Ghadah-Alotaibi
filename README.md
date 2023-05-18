@@ -1,3 +1,8 @@
+
+
+<img src="https://github.com/Ghadah-Alotaibi/Ghadah-Alotaibi/assets/98472074/85e5f114-57fd-4ba6-9b0b-94d727c99b1f" width="1000" height="400"/>
+
+
 # 🌟 Hi, I am Ghadah Alotiabi 🌟
 
 ## About Me 🚀
