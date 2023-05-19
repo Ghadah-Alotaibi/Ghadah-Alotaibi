@@ -19,7 +19,7 @@
 
 
 ## Contact me:
-<a href="https://github.com/Ghadah-Alotaibi/Ghadah-Alotaibi"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a> &nbsp; &nbsp; <a href="www.linkedin.com/in/
+ &nbsp; &nbsp; <a href="www.linkedin.com/in/
 ghadah-alotibiy-363abb275"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>
 
 
